@@ -1,0 +1,4 @@
+corda reference materials
+--------------------------
+https://aws.amazon.com/quickstart/architecture/r3-corda/
+https://kotlinlang.org/docs/tutorials/
